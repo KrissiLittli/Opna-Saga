@@ -1,0 +1,54 @@
+{
+  "schema": "opna-saga.validation.v1",
+  "version": "0.1.0",
+  "date": "2026-10-26",
+  "python": "3.12.14",
+  "command": "python3 -m unittest discover -s tests -v",
+  "tests": 9,
+  "passed": 9,
+  "failed": 0,
+  "exit_code": 0,
+  "duration_seconds": 0.51,
+  "data": "synthetic only",
+  "network_required": false,
+  "api_used": false,
+  "input_files_modified": false,
+  "limits": [
+    "XYZ text structure only; CRS, units, geographic bounds and scientific accuracy are not verified.",
+    "Local Python 3.12.14 tested; other Python versions and hosted CI await separate results."
+  ],
+  "files": {
+    ".gitignore": {
+      "bytes": 30,
+      "sha256": "22bc478fc0eb97818e8c2efd9a6c8f9dce55490bdd8074a3f2b6b8653c5c12d5"
+    },
+    ".github/workflows/tests.yml": {
+      "bytes": 345,
+      "sha256": "b85565a1689b5c3c565bdc3e9de390239b6aefc2401e3baf37bcb9305bd0d4be"
+    },
+    "LICENSE": {
+      "bytes": 1080,
+      "sha256": "c0d703ff93b26768dd7ac575c5abf6be00873d04e8f0393ea6d06c08192e7984"
+    },
+    "README.md": {
+      "bytes": 2703,
+      "sha256": "cc485fd2fb018220f5676a09d899d2fb38b8df439bee48d514942f3cfca1a888"
+    },
+    "tools/check_xyz.py": {
+      "bytes": 2893,
+      "sha256": "cefca85eda014b7ca2b1b48cb76d169a41f69e6048d781c65855bc64de2e5915"
+    },
+    "tests/test_check_xyz.py": {
+      "bytes": 3778,
+      "sha256": "1f8bfc9ab5a109d3d71f8c839f8bdf58c2a1b8de804d2e5c6619b02e2a385c17"
+    },
+    "examples/valid.xyz": {
+      "bytes": 124,
+      "sha256": "9069f90d2ec9e3f6982d81a78682436e14feb5a5427d004d6aafa8d79c466faa"
+    },
+    "examples/invalid.xyz": {
+      "bytes": 77,
+      "sha256": "620b79a35ef608c39374929e95f52572ec8db802846bc8569012d36bbd225081"
+    }
+  }
+}

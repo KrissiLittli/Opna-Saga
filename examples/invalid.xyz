@@ -1,0 +1,3 @@
+# Synthetic malformed example: NaN is not a finite coordinate.
+0 0 0
+1 NaN 3

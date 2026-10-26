@@ -1,0 +1,4 @@
+# Synthetic points for text-format testing; no real location or CRS.
+0 0 0
+1.5 -2 3
+10 20 30 # Inline comments are allowed.
