@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-05",
+  "planned_dinners": 28,
+  "numbered_recipes": 30,
+  "bonus_recipe_ids": [
+    8,
+    9
+  ],
+  "breakfast_lunch_sections": 6,
+  "all_recipes_complete": true,
+  "planned_dinner_recipe_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ]
+}
