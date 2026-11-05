@@ -1,7 +1,14 @@
 # Opna-Saga
 
-Small, independent open-source tools from Okkar-Saga. Each tool has a narrow
-purpose, synthetic examples, and tests. This repository starts with one tool.
+Small, independent open-source tools and openly shared guides from Okkar-Saga.
+Tools have a narrow purpose, synthetic examples, and tests. Food plans and recipes
+are published separately under `matur/` as readable documents.
+
+## Matarplan og uppskriftir
+
+[Fjögurra vikna matarplan og allar uppskriftir](matur/2026-11-05/README.md) eru
+birtar sem læsileg Markdown-skjöl. Þar eru réttirnir, hráefni, eldunarskref og
+leiðbeiningar um undirbúning og geymslu.
 
 ## XYZ coordinate check
 
@@ -57,8 +64,10 @@ sjálfstæða sannprófun.
 
 ## Contributing
 
-Keep changes small and focused. Include a synthetic example or a test that
-demonstrates the problem, run the test command above, and open a pull request.
+Keep changes small and focused and open a pull request. For code changes,
+include a synthetic example or a test that demonstrates the problem and run
+the test command above. For guides and recipes, verify document completeness
+and internal links.
 Use only data and code you have permission to share. Never include credentials
 or private research files. Project archives and conversations are outside this
 repository's scope.
@@ -69,3 +78,4 @@ The original code, documentation, tests, and synthetic examples in this
 repository are licensed under [MIT](LICENSE). This starts a fresh history with
 an explicit file list; it contains no imported research archive, model weights,
 or prior repository history. The license applies to this repository's files.
+
