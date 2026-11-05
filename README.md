@@ -3,6 +3,12 @@
 Small, independent open-source tools from Okkar-Saga. Each tool has a narrow
 purpose, synthetic examples, and tests. This repository starts with one tool.
 
+## Leiðbeiningar og matarplan
+
+- [Sannprófun XYZ-gagna með tilbúnum dæmum](docs/validation/README.md)
+- [Prófa og bæta verkfærið á Linux](docs/linux/README.md)
+- [Fjögurra vikna matarplan og allar uppskriftir](https://github.com/KrissiLittli/Opna-Saga/blob/matur-2026-11-05/matur/2026-11-05/README.md)
+
 ## XYZ coordinate check
 
 `check_xyz.py` reads a UTF-8 text file and checks that every data row contains
@@ -69,3 +75,5 @@ The original code, documentation, tests, and synthetic examples in this
 repository are licensed under [MIT](LICENSE). This starts a fresh history with
 an explicit file list; it contains no imported research archive, model weights,
 or prior repository history. The license applies to this repository's files.
+
+
